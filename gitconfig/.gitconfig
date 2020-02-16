@@ -1,0 +1,15 @@
+[user]
+	name = pranavb
+	email = something
+	signingkey = something
+[push]
+	default = current
+[status]
+	short = true
+	branch = true
+[color]
+	ui = always
+[alias]
+	co = checkout
+[commit]
+	gpgsign = true

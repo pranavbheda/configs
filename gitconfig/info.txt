@@ -1,0 +1,3 @@
+[core]
+	excludesfile = /Users/pranavb/.gitignore_global
+	ignorecase = false

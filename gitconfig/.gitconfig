@@ -9,6 +9,8 @@
 	branch = true
 [color]
 	ui = always
+	ignorecase = false
+	editor = vim
 [alias]
 	co = checkout
 [commit]

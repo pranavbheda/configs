@@ -1,4 +1,6 @@
 
+cp ~/workspace/devops/dev/git/hpgit.sh ~/hpgit.sh
+# modify hpgit script
 
 #~/.bash_pranav
 alias pb='~/pb.sh'

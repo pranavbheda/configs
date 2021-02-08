@@ -1,0 +1,1 @@
+cp -r ~/.settings ~/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings

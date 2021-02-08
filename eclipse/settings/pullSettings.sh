@@ -1,1 +1,1 @@
-cp -r ~/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings .settings/
+cp -r ~/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings ./

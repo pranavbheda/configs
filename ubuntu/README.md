@@ -13,3 +13,12 @@ sudo snap install sublime-text --classic
 # search -> switcher -> disable show desktop
 sudo apt-get install compizconfig-settings-manager
 ```
+
+Fresh ubuntu 20.04 install
+```
+sudo apt install light-themes
+sudo apt install humanity-icon-theme
+set theme
+terminal -> preferences -> unnamed -> color -> uncheck transparency
+
+```

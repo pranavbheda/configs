@@ -20,5 +20,4 @@ sudo apt install light-themes
 sudo apt install humanity-icon-theme
 set theme
 terminal -> preferences -> unnamed -> color -> uncheck transparency
-
 ```

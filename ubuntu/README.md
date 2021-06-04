@@ -7,8 +7,8 @@ sudo snap install slack --classic
 sudo apt install unity-lens-files
 sudo apt install unity-tweak-tool 
 sudo apt install indicator-multiload
-sudo apt-get remove indicator-messages
 sudo snap install sublime-text --classic
+sudo apt install vim
 
 # search -> switcher -> disable show desktop
 sudo apt-get install compizconfig-settings-manager

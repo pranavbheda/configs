@@ -21,3 +21,9 @@ sudo apt install humanity-icon-theme
 set theme
 terminal -> preferences -> unnamed -> color -> uncheck transparency
 ```
+
+
+useful tools
+```
+sudo apt install gitk
+```

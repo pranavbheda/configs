@@ -13,3 +13,5 @@ EDITOR=/usr/bin/vim
 
 #gpg
 export GPG_TTY=$(tty)
+
+alias eclipse='open /Applications/Eclipse.app'

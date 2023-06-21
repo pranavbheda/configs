@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-cp .vimrc ~/
+ln -sf ~/configs/vimrc/.vimrc ~/.vimrc

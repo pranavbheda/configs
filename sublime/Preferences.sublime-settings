@@ -3,6 +3,7 @@
 	"ensure_newline_at_eof_on_save" : true,
 	"draw_white_space" : "all",
 	"spell_check": true,
-	"dictionary": "Packages/Language - English/en_US.dic"
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"color_scheme": "auto",
 }
 

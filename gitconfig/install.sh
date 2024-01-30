@@ -1,6 +1,7 @@
+#!/usr/bin/env bash
 
-git config --global user.name pranavb
-git config --global user.email
+#git config --global user.name pranavb
+#git config --global user.email
 
 git config --global push.default current
 git config --global status.short true

@@ -1,3 +1,3 @@
-if [ -f ~/.bashrc_pranav_mac ]; then
-    source ~/.bashrc_pranav_mac
+if [ -f ~/.bashrc_mac ]; then
+    source ~/.bashrc_mac
 fi

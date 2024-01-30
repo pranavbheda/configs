@@ -1,3 +1,4 @@
-cp .bashrc_pranav_mac ~/.bashrc_pranav_mac
-cp .bashrc ~/.bashrc
-cp .bash_profile ~/.bash_profile
+#!/usr/bin/env bash
+
+filepath=$(realpath .bashrc_mac)
+echo "source "$filepath"" >> ~/.bash_profile

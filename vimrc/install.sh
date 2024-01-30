@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-ln -sf ~/configs/vimrc/.vimrc ~/.vimrc
+filepath=$(realpath .vimrc)
+ln -sf $filepath ~/.vimrc

@@ -6,3 +6,5 @@ alias ls='ls -G'
 alias ll='ls -alG'
 
 alias clean-local-branches='git branch | grep -v -e "master" -e "github" | xargs git branch -D'
+
+alias subl="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"

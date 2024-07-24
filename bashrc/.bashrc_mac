@@ -5,4 +5,5 @@ export GPG_TTY=$(tty)
 alias ls='ls -G'
 alias ll='ls -alG'
 
+alias subl="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
 alias clean-local-branches='git branch | grep -v -e "master" -e "github" | xargs git branch -D'
